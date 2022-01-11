@@ -85,8 +85,8 @@ section.timeline-card-content {
 }
 
 section.timeline-card-content p.card-title {
-  font-size: 1.5em;
-  margin-top: 25px;
+  font-size: 1.10em;
+  margin-top: 15px;
 }
 
 section.timeline-card-content p.card-sub-title {
@@ -95,7 +95,7 @@ section.timeline-card-content p.card-sub-title {
 }
 
 section.timeline-card-content div.card-description > p {
-  font-size: 1.1em;
+  font-size: 1em;
   margin-top: 10px;
   font-weight: 500;
 }

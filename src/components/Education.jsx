@@ -35,7 +35,7 @@ function Education(props) {
     } else if (window?.innerWidth >= 768 && window?.innerWidth < 1024) {
       setWidth('75vw');
     } else {
-      setWidth('50vw');
+      setWidth('70vw');
     }
   }, []);
 

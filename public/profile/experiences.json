@@ -1,33 +1,58 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Technical Solutions Consultant (Compute, Industry Standard Servers)",
+            "subtitle": "Hewlett Packard Enterprise",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Worked in the **Technical Break‐fix team** for Proliant Servers, with **B2B customers** from Fortune 500 customers to Medium Scale Businesses",
+                "Primary responsibilities: **Diagnosing and troubleshooting critical errors** in Servers, Blades and Converged Infrastructure, **performing Root‐cause Analysis**, and enabling on‐site engineers, IT and Datacentre technicians to implement my plan of action",
+                "Consistently maintained high (4 out of 4) quarterly Technical Competency Index rating throughout, with **Diagnostic accuracy** and **Customer satisfaction** above 90%",
+                "Drove operational KPIʼs and customer engagement within the team to improve **organisational efficiency and performance**, as a result of which was selected to spearhead a **Pilot Project** and to mentor new recruits"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "Jul 2016 – Jul 2018"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Student Initiatives",
+            "subtitle": "",
+            "workType": "",
             "workDescription": [
-                "Worked on abc."
+                
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": ""
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Founding Board member, Vice President, Public Relations",
+            "subtitle": "SKY Campus Aachen e.V.",
+            "workType": "",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Organized 20 + free events in Aachen with an attendance of 1500+ people from the student community, catering to Mental Health and wellbeing of the students during tough times",
+                "Publicised the club at Student-association club events and meetups, expanded the club outreach by 200%",
+                "Set-up an Intranet and Internal Repository to facilitate Information exchange"
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "Aug 2021 – Present"
+        },
+        {
+            "title": "Marketing Lead",
+            "subtitle": "Aachen Consulting Club e.V.",
+            "workType": "",
+            "workDescription": [
+                "Co-ordinated with speakers and presenters from Consulting firms like McKinsey, Bain & Co. to produce promotional material of club events, which helped students develop skills for a Consulting career",
+                "Formulated the Social Media strategy and automated the process of content posting",
+                "Designed the Branding material of the club, to be used on Digital and print formats"
+            ],
+            "dateText": "Jun 2021 – Present"
+        },
+        {
+            "title": "Google Student Ambassador",
+            "subtitle": "Google",
+            "workType": "",
+            "workDescription": [
+                "Represented the team Google Sky at the Google Student Ambassador summit, won 1st position at the **Design Thinking competition**",
+                "Acted a **liaison between Google and the local developer community** to promote Google technologies and to develop technical skills, e.g. Application development in Android and Google Cloud Platform, and AdWords certification.",
+                "Headed a team of 5 members and organised independent and collaborative events. More than 5000 students participated in the events, and considered a career in the newly discovered fields."
+            ],
+            "dateText": "Aug 2014 – Dec 2015"
         }
     ]
 }
