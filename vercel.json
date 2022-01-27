@@ -1,5 +1,0 @@
-{
-    "rewrites":  [
-      {"source": "/(.*)", "destination": "%PUBLIC_URL%/"}
-    ]
-  }
